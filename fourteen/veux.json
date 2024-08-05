@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_veux-14.0-20240606-1532.zip",
-    "datetime": 1717927809,
-    "size": 1930417840,
-    "url": "https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-14.0-20240606-1532.zip",
+    "filename": "PixelOS_veux-14.0-20240804-1715.zip",
+    "datetime": 1722791726,
+    "size": 2167819674,
+    "url": "https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-14.0-20240804-1715.zip",
     "github_releases_url": "PLACEHOLDER",
     "fastboot_package_url": "PLACEHOLDER",
-    "filehash": "a7155f1e8344a48144d5ceec1b2c7df1",
-    "id": "70d95895b4b016c56e3edd083024de4dcac7185eca9f957037f1002bc63ba458",
+    "filehash": "5a0cca5deb65ba4039f10d0b1af24ca7",
+    "id": "0dbf82f1eb07e6c0fae3394164d7a1ae320698934b31c8e53195a4544ed021ac",
     "maintainers": [
         {
             "main_maintainer": true,
